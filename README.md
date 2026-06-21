@@ -1,5 +1,8 @@
-# Learning_Python
+# Learning_Python (REUPLOAD)
 This repository contains small Python scripts I’ve developed while learning Python from scratch.
+
+## NOTE
+This is a reupload. I lost my account to sync errors losing 2FA. Not my proudest moment. 
 
 # Goals
 The goal of this repo is to:
