@@ -1,4 +1,4 @@
-# Learning_Python (REUPLOAD)
+# Learning_Python 
 This repository contains small Python scripts I’ve developed while learning Python from scratch.
 
 ## NOTE
