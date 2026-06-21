@@ -3,6 +3,7 @@ This repository contains small Python scripts I’ve developed while learning Py
 
 ## NOTE
 This is a reupload.
+This repo is also completed and is now an archive.
 
 # Goals
 The goal of this repo is to:
